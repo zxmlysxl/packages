@@ -101,3 +101,4 @@
 
 "zzzz.io"		"http://zzzz.io/api/v1/update/[DOMAIN]/?token=[PASSWORD]&type=aaaa&ip=[IP]"	"Updated|No change"
 
+"cloudflare.com-v4"	"update_cloudflare_com_v4.sh"
